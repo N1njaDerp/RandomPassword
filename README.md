@@ -1,5 +1,5 @@
 # RandomPassword
-hello world!
-this is from noah.
-I am editing it again!
-This edit is from gary.
+
+This is a simple project for Noah and Gary to collaborate on while
+learning a little more about python.
+
